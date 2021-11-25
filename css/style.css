@@ -1,4 +1,25 @@
+body {
+    background-color: lightblue;
+    color: darkgreen;
+}
+
 img {
     height: auto;
     width: 400px;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: #555;
+}
+
+.home {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    width: 20%;
+    background-color: lightpink;
+    padding: 50px;
 }
